@@ -1,2 +1,2 @@
-# PPl-projek-
+# PPl-projek
 Minimal tu Maksimal
